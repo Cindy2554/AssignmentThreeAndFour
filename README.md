@@ -1,4 +1,4 @@
-# IC3_Assignment_3_AND_4
+# Assignment3AND4
 
 # Assignment 3
 
