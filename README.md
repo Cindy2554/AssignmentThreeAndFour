@@ -26,7 +26,7 @@ I decided to change the entire visualization into a line graph with a doubel axi
 
 # Assignment 4; Interviewee Critique
 
-*Interviewee 1: Spouse
+*Interviewee 1: Spouse*
 
 1. Can you tell me what you think this is?
 A graph about complaint statistics (literally read the title). But did not know from where and in what context.
@@ -45,7 +45,7 @@ They suggested making the axis title and overall graph title more detailed so th
 
 
 
-*Interviewee 2: Sibling
+*Interviewee 2: Sibling*
 
 1. Can you tell me what you think this is?
 A chart describing incidences of complaints.
