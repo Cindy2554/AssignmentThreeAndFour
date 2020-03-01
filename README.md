@@ -4,8 +4,8 @@
 
 I chose the IC3 Complaint Statistics 2014-18 visualization on page five of the FBI 2018 Internet Crime Report.
 
-[Link to Report] (https://pdf.ic3.gov/2018_IC3Report.pdf)
-[Link to DataViz](HW3_IC3_InitialDataViz.docx)
+[Link to Report and Dataviz] (https://pdf.ic3.gov/2018_IC3Report.pdf)
+
 
 
 # Assignment 3; Critique
@@ -26,6 +26,40 @@ I decided to change the entire visualization into a line graph with a doubel axi
 
 # Assignment 4; Interviewee Critique
 
+*Interviewee 1: Spouse
 
+1. Can you tell me what you think this is?
+A graph about complaint statistics (literally read the title). But did not know from where and in what context.
+
+2. Can you describe to me what this is telling you?
+The graph is showing total complaints between the years 2014-18 and then total losses fo rthe same time frame. Interviewee wasn't completely clear on the relationship between the two, however.
+
+3. Is there anything you find surprising or confusing?
+Was suprised to see that Total complaints were rising steaduly in the time range where Total Losses began to skyrocket. Was curious to know what happened during this time.
+
+4. Who do you think is the intended audience for this?
+Interviewee stated for decisoin makers in the FBI. This was pretty accruate after I explained that the data came from the Internet Crime Unit of the FBI.
+
+5. Is there anything you would change or do differently?
+They suggested making the axis title and overall graph title more detailed so that viewers know exactly what everything is wothout it having to be explained. Suprisingly they did not thave a problem interpreting the double axis which I was concerned about.
+
+
+
+*Interviewee 2: Sibling
+
+1. Can you tell me what you think this is?
+A chart describing incidences of complaints.
+
+2. Can you describe to me what this is telling you?
+The chart shows total complaints and total monetary losses between the years 2014 and 2018. (Seemed to have gotten the relationship quicker especially since I did not say anything about the data.
+
+3. Is there anything you find surprising or confusing?
+She was confused about how monetary losses grew so quickly compared to totla complaints. It seems like seeing the green line shoot up past the blue line and into the white space really caught both interviewees attention.
+
+4. Who do you think is the intended audience for this?
+This interviewee said either government officials or the general public. Very close.
+
+5. Is there anything you would change or do differently?
+They also stated that more explicit title would be helpful and a source caption. Agian, I was suprised that the double axis did not throw my interviewees off and did not initimidate them.
 
 # Assignment 4; Wireframe II
