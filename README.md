@@ -65,6 +65,6 @@ They also stated that more explicit title would be helpful and a source caption.
 # Assignment 4; Wireframe II
 
 [Link to Wireframe 2](HW4_Wireframe2.png)
-[Link to spreadsheet used]
+[Link to spreadsheet used](HW3_IC3_Spreadsheet.xlsx)
 
 I decided to use Tableau software to digitally visualize my inital wireframe and incorporated the changes mentioned by my interviewees. I made the main title and axes titles more explicit so that the readers could infer the relationship between the dual axis quicker. The main difference with my Tableau iteration is that the scales get cut off earlier, so you won't see the Total Losses line shooting past the Total Compalints line, but I believe that the point that monetary losses are increasing at an alarming rate due to internet crimes is made clear. Also, the I was not able to make the axis change color according to the lines represented by them, but intuively, it seem spossible to figure out which line is associated with a particular axis. I ultimately stuck with the line graph because I and my interviewees felt that a compariosn could be made easily. 
